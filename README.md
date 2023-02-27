@@ -1,12 +1,12 @@
 # Quantitative-Data-Analysis-of-European-Football-Players
 
-This repository holds in-depth data analysis of European Football Players. The documentation of ['The Quantitative Data Analysis of the European Football Players'](link) is an good example of how a good quantitative data analysis should ideally be reported, making it easily reproducible. This report includes the following main sections:
+This repository holds in-depth data analysis of European Football Players. The documentation of ['The Quantitative Data Analysis of the European Football Players'](https://github.com/hawranawi/Quantitative-Data-Analysis-of-European-Football-Players/blob/main/The%20Quantitative%20Data%20Analysis%20of%20the%20European%20Football%20Players.Rmd) is an good example of how a good quantitative data analysis should ideally be reported, making it easily reproducible. This report includes the following main sections:
 
 1. Data Quality Analysis 
 2. Exploratory Data Analysis (EDA)
 3. Statistical Modelling 
 
-The table below is the metadata of the ['European Football Players']():
+The table below is the metadata of the ['European Football Players'](https://github.com/hawranawi/Quantitative-Data-Analysis-of-European-Football-Players/blob/main/CS5801_football_analysis.Rda):
 
 | Column Name      | Column Description                                                     |
 |    :----         |       :----                                                            |
